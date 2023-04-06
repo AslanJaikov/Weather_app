@@ -1,5 +1,7 @@
 # Weather_app ☁
 
+![Media_230406_171421](https://user-images.githubusercontent.com/128228440/230362256-6237cec6-695e-4cc5-a69a-0d3a09daf47d.gif)
+
 ## Goal
 
 The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
